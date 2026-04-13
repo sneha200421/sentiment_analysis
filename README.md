@@ -55,17 +55,17 @@ multi_task_best_model.pth
 
 ### 🏥 Mental Health Confusion Matrix
 
-![MH Confusion Matrix](screenshots/mh_confusion_matrix.png)
+![MH Confusion Matrix](mh_confusion_matrix.png)
 _Heatmap showing clinical classification performance across 7 mental health categories_
 
 ### 😊 Sentiment Confusion Matrix
 
-![Sentiment Confusion Matrix](screenshots/sentiment_confusion_matrix.png)
+![Sentiment Confusion Matrix](sentiment_confusion_matrix.png)
 _Binary classification: Negative vs Positive sentiment_
 
 ### 📊 ROC Curves (Clinical Separability)
 
-![ROC Curves](screenshots/roc_curves.png)
+![ROC Curves](roc_curves.png)
 _Multi-class ROC showing per-category AUC scores_
 
 > **💡 Tip**: Run the notebook locally, take screenshots of the plots, create `/screenshots/` folder, and replace placeholder links!
